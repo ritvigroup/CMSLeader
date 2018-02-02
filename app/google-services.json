@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "320746286617",
+    "firebase_url": "https://all-india-cms-leader.firebaseio.com",
+    "project_id": "all-india-cms-leader",
+    "storage_bucket": "all-india-cms-leader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320746286617:android:eb7d60224eb16883",
+        "android_client_info": {
+          "package_name": "com.ritvi.cmsleader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320746286617-1seib79sgnpf28eqq9gqp14785i2sqfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ritvi.cmsleader",
+            "certificate_hash": "728aad18cc8dd9985b09a679fb5c0c0b81a1ccc6"
+          }
+        },
+        {
+          "client_id": "320746286617-vlq2a7a3ef4ui7pvg9ah2ritg7j63j83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8mFYNZQMbs5r_laKz9K6GzCJvM4tJaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320746286617-vlq2a7a3ef4ui7pvg9ah2ritg7j63j83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

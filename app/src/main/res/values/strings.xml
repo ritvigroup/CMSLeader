@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CMS Leader</string>
+    <string name="facebook_app_id">2067244790214507</string>
+    <string name="fb_login_protocol_scheme">fb2067244790214507</string>
+
+    <string-array name="langauage">
+        <item>Hindi</item>
+        <item>English</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
