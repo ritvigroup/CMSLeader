@@ -15,6 +15,10 @@ import android.util.Base64;
 import android.util.Log;
 import android.widget.Toast;
 
+import com.microsoft.appcenter.AppCenter; 
+import com.microsoft.appcenter.analytics.Analytics; 
+import com.microsoft.appcenter.crashes.Crashes;
+
 import com.ritvi.cmsleader.R;
 import com.ritvi.cmsleader.Util.Pref;
 import com.ritvi.cmsleader.Util.StringUtils;
@@ -38,6 +42,7 @@ public class SplashActivity extends AppCompatActivity {
         if (checkAndRequestPermissions()) {
             makesplash();
         }
+        AppCenter.start(getApplication(), "76fb980b-7ec1-4297-943e-458618563005", Analytics.class, Crashes.class);
     }
 
     @Override
